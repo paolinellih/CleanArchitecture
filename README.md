@@ -1,5 +1,7 @@
 # Clean Architecture .NET 8 Web API with MongoDB - Quick Start Guide
 
+![Clean Architecture C#](https://github.com/paolinellih/CleanArchitecture/blob/main/CleanArchitectureCSharp.png)
+
 ## Imagine you could start a Clean Architecture .NET API with MongoDB in seconds?
 
 This guide shows you how to quickly get up and running with a Clean Architecture in .NET 8, using MongoDB as the database. With just a few simple commands, you'll have a fully working web API for CRUD (Create, Read, Update, Delete) operations on a "Student" model. 🚀
@@ -31,6 +33,8 @@ This guide shows you how to quickly get up and running with a Clean Architecture
    ```bash
    docker-compose up --build
    ```
+
+Just access http://localhost:5000/swagger and 'voilà'
 
 ---
 
